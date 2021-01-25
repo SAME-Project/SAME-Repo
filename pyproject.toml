@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "arxiv.1303.5778v1"
+version = "0.1.0"
+description = ""
+authors = ["David Aronchick <aronchick@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^7.1.2"
+Sphinx = "^3.4.3"
+coverage = "^5.3.1"
+flake8 = "^3.8.4"
+black = "^20.8b1"
+azure-mgmt-compute = "^18.1.0"
+azure-mgmt-storage = "^16.0.0"
+azure-mgmt-resource = "^15.0.0"
+azure-keyvault-secrets = "^4.2.0"
+azure-storage-blob = "^12.7.1"
+awscli = "^1.18.219"
+google-cloud = "^0.34.0"
+tensorflow = "^2.4.1"
+matplotlib = "^3.3.3"
+pandas = "^1.2.1"
+sklearn = "^0.0"
+nbdev = "^1.1.12"
+setuptools = "^52.0.0"
+githubactioncontexthelper = "^0.0.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = [
+    "poetry-core>=1.0.0",
+    "setuptools>=30.3.0,<50",
+    "wheel",
+    "pytest-runner",
+    "setuptools_scm>=3.3.1",
+]

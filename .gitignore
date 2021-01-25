@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+sample_text.py
+temp/
+
+github_action_context_variable_holder
+
+sample_same_paper_lib/*
+
+generated_code/*
+!generated_code/.keep
+!generated_code/execute_all_files.sh
