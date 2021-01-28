@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "arxiv.1303.5778v1"
+name = "SAME-repo"
 version = "0.1.0"
 description = ""
 authors = ["David Aronchick <aronchick@gmail.com>"]

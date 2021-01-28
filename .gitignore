@@ -138,3 +138,5 @@ sample_same_paper_lib/*
 generated_code/*
 !generated_code/.keep
 !generated_code/execute_all_files.sh
+
+iris_training.csv
