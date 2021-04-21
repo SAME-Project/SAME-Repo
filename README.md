@@ -61,4 +61,3 @@ The above:
 - Does not NECESSARILY include data, but could include pointers to the data
 
 With all this, we think we can make a breakthrough in the way that machine learning is reproduced across multiple environments.
-
